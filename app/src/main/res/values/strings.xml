@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstKotlin App</string>
+    <string name="string_zero">0</string>
+    <string name="incrementString">Click Me To Increment</string>
+</resources>
